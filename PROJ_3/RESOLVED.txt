@@ -1,0 +1,7 @@
+*** SERVER   ::   HOSTNAME   ::    IP    ::   FLAG ***
+
+
+TLDS1   mx.rutgers.com    HOSTNAME ERROR: HOST NOT FOUND IN TLDS1. 
+TLDS2   kill.cs.rutgers.edu    HOSTNAME ERROR: HOST NOT FOUND IN TLDS2. 
+TLDS2   www.ibm.edu    HOSTNAME ERROR: HOST NOT FOUND IN TLDS2. 
+TLDS1   www.google.com    8.6.4.2    A
